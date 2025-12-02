@@ -5,8 +5,4 @@ Creación de un enlace
 
 
 Enlace a otro [documento](uno.md) Markdown
-<<<<<<< HEAD
-Práctica realizada por: MRA
-=======
-Práctica realizada por: JLP
->>>>>>> adfdda1c5058862d0333af246d93742b7e2f0aee
+Práctica realizada por: OSB
