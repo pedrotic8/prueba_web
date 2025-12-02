@@ -5,9 +5,8 @@ Creación de un enlace
 
 
 Enlace a otro [documento](uno.md) Markdown
-<<<<<<< HEAD
-
-Practica realizada por: ROL
-=======
+<<<<<<<< HEAD:READMEJLP.md
 Práctica realizada por: JLP
->>>>>>> adfdda1c5058862d0333af246d93742b7e2f0aee
+========
+Práctica realizada por: CPZ
+>>>>>>>> 15cd72129bc10c4c7e604430e7a6a20d7ddd046a:READMECPZ.md
