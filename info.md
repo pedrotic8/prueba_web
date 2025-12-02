@@ -6,6 +6,12 @@
 - Primera edición del proyecto. 
 =======
 # Información del desarrollador
+- Nombre: JLP
+- Fecha: 02/12/2025
+- Primera edición del proyecto.
+=======
+<<<<<<< HEAD
+# Información del desarrollador
 - Nombre: (CPZ)
 - Fecha:    2/12/25
 - Primera edición del proyecto.
