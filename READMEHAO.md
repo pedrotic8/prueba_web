@@ -9,4 +9,8 @@ Enlace a otro [documento](uno.md) Markdown
 Práctica realizada por: HAO
 =======
 
-Práctica realizada por: LHS
+<<<<<<< HEAD
+Practica realizada por: OSB
+=======
+Práctica realizada por: DZV
+>>>>>>> 98ed70173a8e1020aa03ae2b1220d8fb8c45a87d
