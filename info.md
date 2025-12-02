@@ -1,8 +1,14 @@
 <<<<<<< HEAD
 # Información del desarrollador
+<<<<<<< HEAD
 - Nombre: MRA
 - Fecha:
 - Primera edición del proyecto.
+=======
+- Nombre: ROL
+- Fecha: 02/12/2025
+- Primera 
+>>>>>>> 7e452ef4f9b69df9c94ee4373a85a4fd87d3ed9e
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
