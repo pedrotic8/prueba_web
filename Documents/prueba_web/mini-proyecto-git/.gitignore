@@ -1,0 +1,50 @@
+# ========================
+# Sistema operativo
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Archivos de IDE / Editores
+# ========================
+.vscode/
+.idea/
+*.iml
+
+# ========================
+# Java
+# ========================
+*.class
+*.log
+*.jar
+target/
+bin/
+
+# ========================
+# Archivos temporales
+# ========================
+*.tmp
+*.swp
+*~
+
+# ========================
+# Node / Frontend (por si se usa en el futuro)
+# ========================
+node_modules/
+dist/
+
+# ========================
+# Configuración local
+# ========================
+.env
+
+# ========================
+# Historiales y caches
+# ========================
+*.cache
+
+# ========================
+# Git internos (evitar errores)
+# ========================
+**/.git/
